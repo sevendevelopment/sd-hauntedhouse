@@ -1,5 +1,12 @@
 ## SD Haunted House
 
+## Description
+SD-HauntedHouse is a thrilling Halloween mini-game designed to immerse players in a spooky, fun-filled adventure. This haunted house experience offers fully customizable features, including eerie NPCs (Peds), randomized spawn locations, and customisable rewards to keep the excitement fresh and engaging every time.
+
+Perfect for the Halloween season, players will love the creepy atmosphere and surprises awaiting them as they explore the haunted house.
+
+Get ready for some terrifying fun!
+
 ## Installation
 
 ## Step 1 - Adding Ghoul Tokens.
@@ -20,6 +27,9 @@ line 3 - swap the Ghoul spawns to your spawns.
 line 107 - swap traderLocation to your spawns.
 line 193 & 203 - Change vector 2 coords to your area (/pzcreate poly)
 line 264 - change blip vector 3
+
+## Step 5 - Customising Rewards
+Go to client/client.lua line 113, Change args = { item = "weapon_axe" } to your items or events.
 
 ## MLO in the video
 
