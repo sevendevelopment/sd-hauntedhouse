@@ -41,3 +41,8 @@ Go to client/client.lua line 113, Change args = { item = "weapon_axe" } to your 
 
 We are using "GTA V MLO Interior Horror School by UncleJust"
 https://www.youtube.com/watch?v=d-9QKVgtOyM
+
+## Dependencies
+qb-core
+qb-smallresources (if you want logs)
+PolyZone
