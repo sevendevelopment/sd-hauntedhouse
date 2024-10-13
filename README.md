@@ -3,6 +3,9 @@
 ## Preview
 https://youtu.be/BFolGfR5YoQ
 
+## Discord (Join for support)
+https://discord.gg/GkcsMrDavc
+
 ## Description
 SD-HauntedHouse is a thrilling Halloween mini-game designed to immerse players in a spooky, fun-filled adventure. This haunted house experience offers fully customizable features, including eerie NPCs (Peds), randomized spawn locations, and customisable rewards to keep the excitement fresh and engaging every time.
 
